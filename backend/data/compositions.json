@@ -1,0 +1,75 @@
+{
+  "f773d11e-7386-4adb-9ab0-2d1c1015ca23": {
+    "id": "f773d11e-7386-4adb-9ab0-2d1c1015ca23",
+    "name": "测试作品",
+    "description": "这是一个测试作品",
+    "bricks": [
+      {
+        "id": "test-1",
+        "type": "text",
+        "title": "测试标题",
+        "content": "测试内容",
+        "metadata": null,
+        "tags": [
+          "测试"
+        ],
+        "version": 1,
+        "createdAt": "2024-01-01T00:00:00",
+        "updatedAt": "2024-01-01T00:00:00"
+      }
+    ],
+    "category": "文章",
+    "tags": [
+      "测试",
+      "演示"
+    ],
+    "createdBy": "user",
+    "createdAt": "2025-08-06T13:48:23.465756",
+    "updatedAt": "2025-08-06T13:48:23.466072"
+  },
+  "4332d00a-a02b-4b5d-932c-d2eb2cfd8285": {
+    "id": "4332d00a-a02b-4b5d-932c-d2eb2cfd8285",
+    "name": "test",
+    "description": null,
+    "bricks": [
+      {
+        "id": "sample-1-1754460177230",
+        "type": "text",
+        "title": "平台介绍",
+        "content": "欢迎使用 Content LEGO！这是一个功能强大的 Brick 模块化创作平台。",
+        "metadata": null,
+        "tags": [
+          "欢迎",
+          "介绍"
+        ],
+        "version": 1,
+        "createdAt": "2025-08-06T13:11:47.447722",
+        "updatedAt": "2025-08-06T13:11:47.447792"
+      },
+      {
+        "id": "sample-2-1754460178184",
+        "type": "cta",
+        "title": "开始创作按钮",
+        "content": "立即开始创作",
+        "metadata": {
+          "description": "点击开始您的内容创作之旅",
+          "imageUrl": null,
+          "linkUrl": "/builder",
+          "buttonText": "立即开始创作"
+        },
+        "tags": [
+          "CTA",
+          "按钮"
+        ],
+        "version": 1,
+        "createdAt": "2025-08-06T13:11:47.447797",
+        "updatedAt": "2025-08-06T13:11:47.447799"
+      }
+    ],
+    "category": "marketing",
+    "tags": [],
+    "createdBy": "user",
+    "createdAt": "2025-08-06T14:03:09.239102",
+    "updatedAt": "2025-08-06T14:03:09.239115"
+  }
+}

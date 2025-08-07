@@ -1,0 +1,65 @@
+{
+  "sample-1": {
+    "id": "sample-1",
+    "type": "text",
+    "title": "平台介绍",
+    "content": "欢迎使用 Content LEGO！这是一个功能强大的 Brick 模块化创作平台。",
+    "metadata": null,
+    "tags": [
+      "欢迎",
+      "介绍"
+    ],
+    "version": 1,
+    "createdAt": "2025-08-06T13:11:47.447722",
+    "updatedAt": "2025-08-06T13:11:47.447792"
+  },
+  "sample-2": {
+    "id": "sample-2",
+    "type": "cta",
+    "title": "开始创作按钮",
+    "content": "立即开始创作",
+    "metadata": {
+      "description": "点击开始您的内容创作之旅",
+      "imageUrl": null,
+      "linkUrl": "/builder",
+      "buttonText": "立即开始创作"
+    },
+    "tags": [
+      "CTA",
+      "按钮"
+    ],
+    "version": 1,
+    "createdAt": "2025-08-06T13:11:47.447797",
+    "updatedAt": "2025-08-06T13:11:47.447799"
+  },
+  "sample-3": {
+    "id": "sample-3",
+    "type": "quote",
+    "title": "团队名言",
+    "content": "\"内容是王道，但结构化的内容是帝国。\" - Content LEGO 团队",
+    "metadata": null,
+    "tags": [
+      "引用",
+      "名言"
+    ],
+    "version": 1,
+    "createdAt": "2025-08-06T13:11:47.447803",
+    "updatedAt": "2025-08-06T13:11:47.447805"
+  },
+  "caf9d668-49b3-437b-81d4-da6c622177d9": {
+    "id": "caf9d668-49b3-437b-81d4-da6c622177d9",
+    "type": "text",
+    "title": "test",
+    "content": "test",
+    "metadata": {
+      "description": null,
+      "imageUrl": null,
+      "linkUrl": null,
+      "buttonText": null
+    },
+    "tags": [],
+    "version": 1,
+    "createdAt": "2025-08-06T20:30:03.281914",
+    "updatedAt": "2025-08-06T20:30:03.281914"
+  }
+}
