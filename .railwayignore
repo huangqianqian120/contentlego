@@ -1,0 +1,43 @@
+# Frontend files and directories
+src/
+public/
+node_modules/
+.next/
+*.tsx
+*.ts
+*.js
+*.jsx
+package.json
+package-lock.json
+next.config.js
+tailwind.config.js
+postcss.config.js
+tsconfig.json
+next-env.d.ts
+
+# Git files
+.git/
+.gitignore
+
+# Documentation
+*.md
+README.md
+PRD.md
+AI_SETUP_GUIDE.md
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Exclude everything except backend
+*
+!backend/
+!backend/**
+!requirements.txt
+!railway.toml
